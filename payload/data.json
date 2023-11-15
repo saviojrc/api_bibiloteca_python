@@ -1,0 +1,25 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "nome": "Harry Potter e a Câmara Secreta",
+      "autor": "JK rowling",
+      "ano_lancamento": "1988",
+      "mes_lancamento": "07"
+    },
+    {
+      "id": 2,
+      "nome": "O Senhor dos Anéis: Os Anéis de Poder",
+      "autor": "J. R. R. Tolkien",
+      "ano_lancamento": "1973",
+      "mes_lancamento": "01"
+    },
+    {
+      "id": 3,
+      "nome": "Memórias póstumas de Brás Cubas",
+      "autor": "Machado de Assis",
+      "ano_lancamento": "1881",
+      "mes_lancamento": "02"
+    }
+  ]
+}
