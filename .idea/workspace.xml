@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dde315eb-9eda-4ee9-8150-9207d711b7e9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/services/api_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/services/api_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
